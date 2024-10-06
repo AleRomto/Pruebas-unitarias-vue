@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutView debe coincidir con el snapshot 1`] = `
+<div>
+  <h1>About Us</h1>
+  <p>Soy un about</p>
+</div>
+`;
